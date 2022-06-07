@@ -9,3 +9,6 @@ sphinxcontrib-bibtex>=1.0.0
 pycairo
 jupyter_client
 ipykernel
+
+setuptools_scm
+importlib-metadata
