@@ -12,3 +12,5 @@ ipykernel
 
 setuptools_scm
 importlib-metadata
+pytoml
+importlib.metadata
